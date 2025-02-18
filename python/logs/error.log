@@ -1,0 +1,10 @@
+2024-11-24 01:05:29,752 | ERROR | system | Server error | Exception: [Errno 98] Address already in use
+2024-11-24 01:06:07,660 | ERROR | system | Server error | Exception: [Errno 98] Address already in use
+2024-11-24 01:06:14,356 | ERROR | system | Server error | Exception: [Errno 98] Address already in use
+2024-11-24 01:06:25,290 | ERROR | system | Server error | Exception: [Errno 98] Address already in use
+2024-11-24 01:06:37,764 | ERROR | system | Server error | Exception: [Errno 98] Address already in use
+2024-11-24 01:08:37,006 | ERROR | 192.168.31.133 | Header parsing error | Exception: 'utf-8' codec can't decode byte 0x8b in position 27: invalid start byte
+2024-11-24 01:09:26,761 | ERROR | 192.168.31.133 | Header parsing error | Exception: 'utf-8' codec can't decode byte 0x8b in position 27: invalid start byte
+2024-11-24 01:09:33,708 | ERROR | 192.168.31.133 | HTTP request error for http://r11.o.lencr.org/ | Exception: ('Connection aborted.', BadStatusLine('HTTP/1.1   0 Init\r\n'))
+2024-11-24 01:09:36,985 | ERROR | 192.168.31.133 | HTTP request error for http://r11.o.lencr.org/ | Exception: ('Connection aborted.', BadStatusLine('HTTP/1.1   0 Init\r\n'))
+2024-11-24 01:10:30,458 | ERROR | 192.168.31.133 | HTTP request error for http://r11.o.lencr.org/ | Exception: ('Connection aborted.', BadStatusLine('HTTP/1.1   0 Init\r\n'))
